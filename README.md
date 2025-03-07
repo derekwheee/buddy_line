@@ -2,4 +2,4 @@
 
 A breadboard friend for prototyping with line level audio output
 
-![Screenshot 2025-03-06 at 12 02 32 AM](https://github.com/user-attachments/assets/c8a62676-f150-4158-abf7-853609c2505a)
+![Screenshot 2025-03-07 at 12 55 24 AM](https://github.com/user-attachments/assets/161e4a0c-5e9e-4199-9076-b25a84afcfa0)
